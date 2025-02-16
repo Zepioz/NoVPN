@@ -1,1 +1,23 @@
-{"status":"success","response":{"servers":["paper","purpur","spigot"],"vanilla":["vanilla","snapshot"]}}
+{
+  "response": {
+    "modded": [
+      "mohist",
+      "fabric",
+      "forge"
+    ],
+    "proxies": [
+      "waterfall",
+      "bungeecord",
+      "velocity"
+    ],
+    "vanilla": [
+      "vanilla",
+      "snapshot"
+    ],
+    "servers": [
+      "paper",
+      "purpur",
+      "sponge"
+    ]
+  }
+}
