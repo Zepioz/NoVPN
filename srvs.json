@@ -1,1 +1,1 @@
-{"status":"success","response":{"modded":["mohist","fabric","forge","catserver"],"proxies":["waterfall","bungeecord","velocity"],"servers":["paper","purpur","sponge"],"vanilla":["vanilla","snapshot"]}}
+{"status":"success","response":{"servers":["paper","purpur"],"vanilla":["vanilla","snapshot"],"modded":["mohist","fabric","forge"],"proxies":["bungeecord","velocity"]}}
