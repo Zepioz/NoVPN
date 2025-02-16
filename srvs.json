@@ -1,1 +1,1 @@
-{"status":"success","response":{"servers":["paper","purpur"],"vanilla":["vanilla","snapshot"]}}
+{"status":"success","response":{"bedrock":["pocketmine"],"modded":["mohist","fabric","forge","catserver"],"proxies":["waterfall","bungeecord","velocity"],"servers":["paper","purpur","sponge"],"vanilla":["vanilla","snapshot"]}}
