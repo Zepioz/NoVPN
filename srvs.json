@@ -1,1 +1,1 @@
-{"status":"success","response":{"servers":["paper","purpur"],"vanilla":["vanilla","snapshot"],"modded":["mohist","fabric","forge"],"proxies":["bungeecord","velocity"]}}
+{"status":"success","response":{"servers":["paper"],"vanilla":[],"modded":[],"proxies":[]}}
