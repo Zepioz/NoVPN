@@ -5,18 +5,6 @@
       "version": "1.21.4",
       "filename": "paper-1.21.4.jar",
       "file": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/164/downloads/paper-1.21.4-164.jar"
-    },
-    {
-      "version": "1.21.1",
-      "file": "paper-1.21.1.jar"
-    },
-    {
-      "version": "1.21.1",
-      "file": "paper-1.21.1.jar"
-    },
-    {
-      "version": "1.20.1",
-      "file": "paper-1.20.1.jar"
     }
   ]
 }
