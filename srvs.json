@@ -4,8 +4,8 @@
         "servers": [
             "paper"
         ],
-        "modded": [],
-        "proxies": [],
-        "vanilla": []
+        "vanilla": [
+            "vanilla"
+        ]
     }
 }
