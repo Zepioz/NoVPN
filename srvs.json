@@ -2,10 +2,10 @@
     "status": "success",
     "response": {
         "servers": [
-            "paper",
-            "purpur",
-            "spigot"
+            "paper"
         ],
+        "modded": [],
+        "proxies": [],
         "vanilla": [
             "vanilla"
         ]
