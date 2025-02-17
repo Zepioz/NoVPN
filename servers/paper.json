@@ -1,1 +1,21 @@
-
+{
+  "status":"success",
+  "response": [
+    {
+      "version": "1.21.4",
+      "file": "paper-1.21.4.jar"
+    },
+    {
+      "version": "1.21.1",
+      "file": "paper-1.21.1.jar"
+    },
+    {
+      "version": "1.21.1",
+      "file": "paper-1.21.1.jar"
+    },
+    {
+      "version": "1.20.1",
+      "file": "paper-1.20.1.jar"
+    }
+  ]
+}
