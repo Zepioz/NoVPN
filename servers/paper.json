@@ -3,7 +3,7 @@
   "response": [
     {
       "version": "1.21.4",
-      "filename": "paper.jar",
+      "filename": "server.jar",
       "file": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/164/downloads/paper-1.21.4-164.jar"
     }
   ]
