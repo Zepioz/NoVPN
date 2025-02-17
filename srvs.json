@@ -1,1 +1,13 @@
-{"status":"success","response":{"servers":["paper"],"vanilla":[],"modded":[],"proxies":[]}}
+{
+    "status": "success",
+    "response": {
+        "servers": [
+            "paper",
+            "purpur",
+            "spigot"
+        ],
+        "vanilla": [
+            "vanilla"
+        ]
+    }
+}
